@@ -3,6 +3,7 @@
 3)Create .env file in backend folder and save this 
 
 JWT_SEC=adhbsafashfbfs (random letters)
+
 MONGODB_URL=mongodb://127.0.0.1:27017/testoperations
 
 4) First run npm start in the server.js terminal.

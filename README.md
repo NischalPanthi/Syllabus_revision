@@ -4,7 +4,7 @@
 
 JWT_SEC=adhbsafashfbfs (random letters)
 
-MONGODB_URL=mongodb://127.0.0.1:27017/testoperations
+MONGODB_URL=mongodb://127.0.0.1:27017/syllabus
 
 4) First run npm start in the server.js terminal.
 5) Finally run npm start in app.jsx terminal

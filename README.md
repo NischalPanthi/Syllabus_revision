@@ -1,6 +1,6 @@
 1) Install node 17.9.1 and mongodb 5.0.18( also install mogodb compass)
 2) Run npm i in both backend and frontend terminal
-3)Create .env file in backend folder and save this 
+3) Create .env file in backend folder and save this 
 
 JWT_SEC=adhbsafashfbfs (random letters)
 

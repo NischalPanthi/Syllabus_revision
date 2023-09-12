@@ -9,3 +9,4 @@ MONGODB_URL=mongodb://127.0.0.1:27017/syllabus
 4) First run npm start in the server.js terminal.
 5) Finally run npm start in app.jsx terminal
 6) Use compass to change your admin status.
+* This project wasn't deployed because the hosting website "pithos" went down
